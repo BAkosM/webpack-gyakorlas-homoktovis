@@ -1,3 +1,4 @@
+Benedek Ákos Marcell
 # Webpack gyakarló feladat
 
 ## Telepítés
