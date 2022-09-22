@@ -1,3 +1,22 @@
 body{
     background: url("/images/hatter.png")
 }
+#Cimsor{
+    background-color: orange;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    padding: 40px;
+    font-size: 60px;
+}
+#Menu{
+    background-color: white;
+    text-align: center;
+}
+a:link, a:visited, a:hover, a:active{
+    text-decoration: none;
+    color: orange;
+    padding-left: 5px;
+    padding-right: 5px;
+}
