@@ -12,11 +12,24 @@ h1{
 }
 #Menu{
     background-color: white;
-    text-align: center;
+    text-align: center;    
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 a:link, a:visited, a:hover, a:active{
     text-decoration: none;
     color: orange;
     padding-left: 5px;
     padding-right: 5px;
+}
+.Alcimsor{
+    background-color: orange;
+    font-weight: bold;
+}
+h2{
+    text-align: left;
+    padding: 10px;
+}
+.Kontent{
+    background-color: white;
 }
